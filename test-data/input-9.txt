@@ -1,0 +1,3 @@
+# ALL mode: secondary always fails, primary works -> at least one success
+GT4500,5,0,5,1.0
+TORPEDO,ALL

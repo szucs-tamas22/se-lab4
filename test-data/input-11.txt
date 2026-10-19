@@ -1,0 +1,3 @@
+# ALL mode: primary is empty, secondary fires
+GT4500,0,0,3,0
+TORPEDO,ALL

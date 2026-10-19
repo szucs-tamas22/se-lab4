@@ -1,0 +1,5 @@
+# SINGLE mode alternates between the stores (1 torpedo in each)
+GT4500,1,0,1,0
+TORPEDO,SINGLE  # should fire from the primary store
+TORPEDO,SINGLE  # should fire from the secondary store (alternating)
+TORPEDO,SINGLE  # both stores are empty

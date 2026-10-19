@@ -1,0 +1,5 @@
+# SINGLE mode: the secondary store is empty, so the primary is fired again
+GT4500,2,0,0,0
+TORPEDO,SINGLE  # fired from the primary store
+TORPEDO,SINGLE  # next in line is empty, fires the primary again
+TORPEDO,SINGLE  # both stores are empty
