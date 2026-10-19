@@ -1,0 +1,4 @@
+# ALL mode: fires both stores (1 torpedo in each)
+GT4500,1,0,1,0
+TORPEDO,ALL  # fires both stores
+TORPEDO,ALL  # both stores are empty now

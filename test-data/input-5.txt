@@ -1,0 +1,4 @@
+# SINGLE mode: the secondary store always fails
+GT4500,5,0,5,1.0
+TORPEDO,SINGLE  # fired from the primary store
+TORPEDO,SINGLE  # secondary reports a failure
